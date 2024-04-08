@@ -1,0 +1,23 @@
+{
+  "name": "simple-calculator_basic-operations",
+  "version": "2.0.2",
+  "description": "A simple calculator with Typescript, Node.js and  Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "simple-calculator_basic-operations": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Wasif Ali",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "simple-calculator_basic-operations": "^2.0.2",
+    "simple-calculator-typescript": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
